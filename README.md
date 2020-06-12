@@ -6,9 +6,9 @@ Este script en Python permite obtener claves por defecto de routers wifi de Fibe
 
 ### Setup
 
-Script probado en Python2.7
+Script probado en Python 3.6.9
 
-Los requerimientos se instalan por medio de:
+Los requisitos se instalan por medio de:
 
 ```
 $ sudo apt-get install aircrack-ng crunch
